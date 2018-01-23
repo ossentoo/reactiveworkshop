@@ -2,7 +2,6 @@
 
 using System;
 using System.Reactive.Subjects;
-using System.Reactive.Linq;
 using System.Threading;
 using System.Timers;
 using Timer = System.Timers.Timer;
